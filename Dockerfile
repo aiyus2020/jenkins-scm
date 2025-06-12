@@ -1,7 +1,7 @@
 # Use the official NGINX base images
 FROM nginx:latest
 
-# Set the working directory in the container
+# Set the working directory in the containers
 WORKDIR  /usr/share/nginx/html/
 
 # Copy the local HTML file to the NGINX default public directory
