@@ -1,4 +1,4 @@
-# Use the official NGINX base image
+# Use the official NGINX base images
 FROM nginx:latest
 
 # Set the working directory in the container
